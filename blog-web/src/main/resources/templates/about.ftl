@@ -14,7 +14,7 @@
                 <h5 class="custom-title"><i class="fa fa-user-secret fa-fw"></i><strong>博主简介</strong><small></small></h5>
                 <div class="info">
                     <p>
-                        码农一枚
+                        有趣的攻城狮
                     </p>
                 </div>
                 <h5 class="custom-title"><i class="fa fa-coffee fa-fw"></i><strong>关于博客</strong><small></small></h5>

@@ -1,6 +1,6 @@
 <#include "include/macros.ftl">
 <@compress single_line=false>
-<@header title="${config.siteName!} | 一个程序员的个人博客"
+<@header title="${config.siteName!} | 花生无翼的个人博客"
     keywords="${config.homeKeywords!}"
     description="${config.homeDesc!}"
     canonical="/${url!}">
@@ -14,13 +14,13 @@
             <div class="scrolltext">
                 <ul class="list-unstyled" id="notice-box">
                     <li class="scrolltext-title">
-                        <a href="javascript:void(0)" rel="bookmark">本站正式启用新域名:<a href="https:/www.zhyd.me" target="_blank"><strong>https:/www.zhyd.me</strong></a></a>
+                        <a href="javascript:void(0)" rel="bookmark">每天进步一点点</a>
                     </li>
                     <li class="scrolltext-title">
-                        <a href="javascript:void(0)" rel="bookmark">活了二十多年，没能为祖国、为人民做点什么，每思及此，伤心欲绝。</a>
+                        <a href="javascript:void(0)" rel="bookmark">得不到的永远在骚动，被偏爱的都有恃无恐。</a>
                     </li>
                     <li class="scrolltext-title">
-                        <a href="javascript:void(0)" rel="bookmark">其实我们可以将所有的问题归结为两种：一种是没饭吃饿出来的；一种是吃饱了撑出来的。</a>
+                        <a href="javascript:void(0)" rel="bookmark">世上无难事，只怕有心人。</a>
                     </li>
                 </ul>
             </div>

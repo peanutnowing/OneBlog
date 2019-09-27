@@ -95,7 +95,7 @@
                 </div>
             </div>
             <div class="blog-body">
-                <a href="https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wylo59db&utm_source=wylo59db" target="_blank" rel="external nofollow">
+                <a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=cv1em7hm" target="_blank" rel="external nofollow">
                     <img src="${config.staticWebSite}/img/ad/aliyun_sale1000-60.png" alt="阿里云首购8折" class="img-responsive" style="width: 100%;">
                 </a>
             </div>
