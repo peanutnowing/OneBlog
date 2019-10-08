@@ -11,7 +11,7 @@
                 <li><a href="${config.siteUrl}/about" class="menu_a" title="关于博客" data-toggle="tooltip" data-placement="bottom">关于本站</a></li>
                 <li><a href="${config.siteUrl}/links" class="menu_a" title="友情链接" data-toggle="tooltip" data-placement="bottom">友情链接</a></li>
             </ul>
-            <#if user??>
+           <#-- <#if user??>
                 <ul class="list-unstyled list-inline nav navbar-nav">
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle menu_a" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-user fa-fw"></i>${user.username!} <span class="caret"></span></a>
@@ -24,11 +24,11 @@
                 <ul class="list-unstyled list-inline pull-left">
                     <li><a href="javascript:;;" data-toggle="modal" data-target="#oauth" rel="nofollow" title="授权登录">登录</a></li>
                 </ul>
-            </#if>
+            </#if>-->
         </div>
     </div>
 </nav>
-<div class="modal" id="oauth" tabindex="-1" role="dialog" aria-labelledby="oauthTitle">
+<#--<div class="modal" id="oauth" tabindex="-1" role="dialog" aria-labelledby="oauthTitle">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -56,7 +56,7 @@
                                 </li>
                             </#if>
                         </@zhydTag>
-                        <#--<li>
+                        &lt;#&ndash;<li>
                             <a href="${config.siteUrl}/oauth/render/gitee" target="">
                                 <img src="https://gitee.com/logo_icon.png" alt="" class="img-circle">
                             </a>
@@ -125,7 +125,7 @@
                             <a href="${config.siteUrl}/oauth/render/facebook" target="">
                                 <img src="https://gitee.com/yadong.zhang/static/raw/master/JustAuth/facebook.png" alt="">
                             </a>
-                        </li>-->
+                        </li>&ndash;&gt;
                     </ul>
                     <div class="oauth-line">
                         <span>
@@ -136,7 +136,7 @@
             </div>
         </div>
     </div>
-</div>
+</div>-->
 <nav id="mainmenu" class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="menu-box">
         <div class="navbar-header">
